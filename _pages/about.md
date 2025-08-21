@@ -28,12 +28,12 @@ My research interests primarily include Computer Vision, MLLM, and video underst
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCV 2024 Oral</div><img src='images/biefficient.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BiEfficient: Bidirectionally Prompting
- Vision-Language Models for Parameter-Efficient
- Video Recognition](https://openaccess.thecvf.com/content/ACCV2024/papers/He_BiEfficient_Bidirectionally_Prompting_Vision-Language_Models_for_Parameter-Efficient_Video_Recognition_ACCV_2024_paper.pdf)
+[Biefficient: Bidirectionally prompting vision-language models for parameter-efficient video recognition](https://openaccess.thecvf.com/content/ACCV2024/papers/He_BiEfficient_Bidirectionally_Prompting_Vision-Language_Models_for_Parameter-Efficient_Video_Recognition_ACCV_2024_paper.pdf)
 
-**Haichen He**, Weibin Liu, Weiwei Xing
+**Haichen He**, Weibin Liu*, Weiwei Xing
 
+
+[PDF](https://openaccess.thecvf.com/content/ACCV2024/papers/He_BiEfficient_Bidirectionally_Prompting_Vision-Language_Models_for_Parameter-Efficient_Video_Recognition_ACCV_2024_paper.pdf) 
 </div>
 </div>
 
