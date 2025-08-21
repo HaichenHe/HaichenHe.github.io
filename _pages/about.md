@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Haichen He"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -34,6 +34,8 @@ My research interests primarily include Computer Vision, MLLM, and video underst
 
 **Haichen He**, Weibin Liu, Weiwei Xing
 
+</div>
+</div>
 
 # 📖 Educations
 - *2022.09 - 2025.06*, M.S. degree, Beijing Jiaotong University 
