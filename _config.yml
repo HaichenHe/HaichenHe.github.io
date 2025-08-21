@@ -7,11 +7,10 @@
 
 # Site Settings
 title                    : "Haichen He"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "HaichenHe/HaichenHe.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
+# google analyticsdescription              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
