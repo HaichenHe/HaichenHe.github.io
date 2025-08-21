@@ -33,7 +33,6 @@ My research interests primarily include Computer Vision, MLLM, and video underst
 **Haichen He**, Weibin Liu*, Weiwei Xing
 
 
-[PDF](https://openaccess.thecvf.com/content/ACCV2024/papers/He_BiEfficient_Bidirectionally_Prompting_Vision-Language_Models_for_Parameter-Efficient_Video_Recognition_ACCV_2024_paper.pdf) 
 </div>
 </div>
 
