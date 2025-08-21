@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haichen He"
-description              : "CV, MLLM, Video Understanding"
+description              : "Much can be done."
 repository               : "HaichenHe/HaichenHe.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haichen He"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me_2.png"
   bio              : "Beijing Jiaotong University"
   location         : "Beijing, China"
   employer         :
