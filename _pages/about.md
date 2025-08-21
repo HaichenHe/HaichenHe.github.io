@@ -42,4 +42,4 @@ My research interests primarily include Computer Vision, MLLM, and video underst
 
 
 # 💻 Internships
-- *2025.09 - 2026.08*, Research Assistant, Hong Kong Baptist University
+- *2025.09 - 2026.08(expected)*, Research Assistant, Hong Kong Baptist University
