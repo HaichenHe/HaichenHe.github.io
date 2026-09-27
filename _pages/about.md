@@ -11,8 +11,7 @@ redirect_from:
 <div class="intro-copy">
 <p class="eyebrow">PhD Student · East China Normal University</p>
 <h1 id="profile-name">Haichen He</h1>
-<p class="research-focus">Self-evolving agents.</p>
-<p>I am a PhD student at <strong>East China Normal University (ECNU)</strong>, where I work closely with <a href="https://yangxue.site/">Prof. Xue Yang</a>. My research focuses on <strong>self-evolving agents</strong>.</p>
+<p>I am a PhD student at <strong>East China Normal University (ECNU)</strong>, where I work closely with <a href="https://yangxue.site/">Prof. Xue Yang</a>. My current research focuses on <strong>self-evolving agents</strong>.</p>
 <p>Previously, I was a Research Assistant at Hong Kong Baptist University, supervised by <a href="https://kaiyangzhou.github.io/">Prof. Kaiyang Zhou</a>. I received my M.S. from Beijing Jiaotong University and my B.S. from Communication University of China.</p>
 <div class="profile-links" aria-label="Contact and academic profiles">
 <a href="mailto:hehaichen41@gmail.com">Email ↗</a>
