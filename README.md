@@ -1,3 +1,22 @@
+# Haichen He — Academic Homepage
+
+Personal academic homepage hosted on GitHub Pages. The homepage uses a custom,
+responsive Jekyll layout with no JavaScript or external font dependency.
+
+## Maintaining the homepage
+
+- Edit biography, publications, and experience in `_pages/about.md`.
+- Edit page structure and metadata in `_layouts/academic.html`.
+- Edit typography, spacing, and responsive styles in `assets/css/academic.css`.
+- Update site metadata and profile links in `_config.yml`.
+- Keep publication authors and venue labels consistent with the original papers.
+
+Build with `bundle install` and `bundle exec jekyll build`; preview with
+`bundle exec jekyll serve`. The original `/about/` and `/about.html` URLs redirect
+to the homepage. The original template sources and license are retained below.
+
+---
+
 
 <h1 align="center">
 AcadHomepage

@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Haichen He"
-description              : "Much can be done."
+description              : "Haichen He is a PhD student at East China Normal University, researching self-evolving agents."
+url: "https://haichenhe.github.io"
+baseurl: ""
 repository               : "HaichenHe/HaichenHe.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +25,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haichen He"
   avatar           : "images/me_2.png"
-  bio              : "Beijing Jiaotong University"
-  location         : "Beijing, China"
+  bio              : "PhD Student at East China Normal University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=iq0nqeoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=iq0nqeoAAAAJ"
   email            : "hehaichen41@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

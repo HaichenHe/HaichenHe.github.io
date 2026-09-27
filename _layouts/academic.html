@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} | PhD Student at ECNU</title>
+<meta name="description" content="{{ site.description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Haichen He | PhD Student at ECNU">
+<meta property="og:description" content="{{ site.description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+<a class="wordmark" href="{{ '/' | relative_url }}">Haichen He<span>.</span></a>
+<nav aria-label="Main navigation"><a href="#about">About</a><a href="#publications">Publications</a><a href="#experience">Experience</a></nav>
+</header>
+<main id="main">{{ content }}</main>
+<footer class="site-footer"><span>Haichen He · East China Normal University</span><a href="mailto:{{ site.author.email }}">Get in touch ↗</a></footer>
+</body>
+</html>
