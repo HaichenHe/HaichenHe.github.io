@@ -24,7 +24,7 @@ redirect_from:
 </section>
 
 <section class="content-section" id="publications" aria-labelledby="publications-title">
-<div class="section-heading"><h2 id="publications-title">Selected publications</h2><a class="small-link" href="https://scholar.google.com/citations?user=iq0nqeoAAAAJ">Full list on Scholar ↗</a></div>
+<div class="section-heading"><h2 id="publications-title">Publications</h2><a class="small-link" href="https://scholar.google.com/citations?user=iq0nqeoAAAAJ">Google Scholar ↗</a></div>
 <article class="publication">
 <div class="publication-year">2026</div>
 <div>
@@ -43,6 +43,16 @@ redirect_from:
 <p class="authors"><strong>Haichen He</strong>, Weibin Liu*, Weiwei Xing</p>
 <p class="paper-summary">Bidirectional prompting for parameter-efficient video recognition with vision-language models.</p>
 <div class="paper-links"><a href="https://openaccess.thecvf.com/content/ACCV2024/papers/He_BiEfficient_Bidirectionally_Prompting_Vision-Language_Models_for_Parameter-Efficient_Video_Recognition_ACCV_2024_paper.pdf">Paper ↗</a></div>
+</div>
+</article>
+<article class="publication">
+<div class="publication-year">2024</div>
+<div>
+<p class="venue">IEEE ISPA 2024</p>
+<h3><a href="https://doi.org/10.1109/ISPA63168.2024.00014">Parallel Assembly Sequence Planning Based on Sparrow Search Algorithms</a></h3>
+<p class="authors"><strong>Haichen He</strong>, Weibin Liu, Yinan Zhang, Shasha Song, Yue Cheng, Ziheng Liu, Weiwei Xing</p>
+<p class="paper-summary">2024 IEEE International Symposium on Parallel and Distributed Processing with Applications, pp. 42–49.</p>
+<div class="paper-links"><a href="https://doi.org/10.1109/ISPA63168.2024.00014">Paper ↗</a></div>
 </div>
 </article>
 </section>
